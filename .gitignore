@@ -1,7 +1,0 @@
-node_modules
-makemigrations
-__pycache__
-.venv
-*.json
-cache
-**/.next/
